@@ -1,13 +1,13 @@
 {
-  "version": "1.1.21",
-  "buildNumber": 57,
+  "version": "1.1.22",
+  "buildNumber": 58,
   "apkUrl": "https://github.com/lienoo/NVRClient-Download/raw/refs/heads/main/NVRClient-release.apk",
   "downloadPageUrl": "https://lienoo.github.io/nvrclient/download/",
   "forceUpdate": false,
-  "publishedAt": "2026-03-14T16:05:00+08:00",
+  "publishedAt": "2026-03-14T17:50:00+08:00",
   "releaseNotes": [
-    "新增 Android 版本检测与自更新能力",
-    "支持在登录页手动检查更新并自动下载 APK",
-    "下载完成后可直接调起系统安装器完成升级"
+    "优化 Android 自更新体验，更新包改为后台下载，不阻塞继续使用应用",
+    "下载过程中增加全局轻量进度提示，可随时继续操作其他功能",
+    "下载完成后自动弹出安装提示，并可直接调起系统安装器完成升级"
   ]
 }
