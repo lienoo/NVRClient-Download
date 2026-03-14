@@ -1,16 +1,14 @@
 {
   "version": "1.1.25",
   "buildNumber": 61,
-  "apkUrl": "https://gitee.com/lienoo/nvrclient/raw/master/NVRClient-release.apk",
-  "mirrorApkUrls": [
-    "https://github.com/lienoo/NVRClient-Download/raw/refs/heads/main/NVRClient-release.apk"
-  ],
+  "apkUrl": "https://github.com/lienoo/NVRClient-Download/raw/refs/heads/main/NVRClient-release.apk",
+  "mirrorApkUrls": [],
   "downloadPageUrl": "https://lienoo.github.io/nvrclient/download/",
   "forceUpdate": false,
-  "publishedAt": "2026-03-14T19:05:00+08:00",
+  "publishedAt": "2026-03-14T20:28:00+08:00",
   "releaseNotes": [
-    "新增 Gitee 国内主下载源，App 检查更新优先使用 Gitee 更新清单",
-    "新增 GitHub 备用下载源，主下载源失败后可自动切换到备用源继续下载",
-    "静态下载页同时提供 Gitee 与 GitHub 双入口，分别适配国内与海外用户"
+    "修复 Gitee 原始文件大包下载需要登录导致的更新失败问题",
+    "Android 自更新下载主地址已切换为 GitHub 公共下载仓库",
+    "保留多清单源能力，后续可继续接入新的国内可用镜像"
   ]
 }
