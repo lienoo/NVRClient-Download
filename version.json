@@ -1,13 +1,13 @@
 {
-  "version": "1.1.23",
-  "buildNumber": 59,
+  "version": "1.1.24",
+  "buildNumber": 60,
   "apkUrl": "https://github.com/lienoo/NVRClient-Download/raw/refs/heads/main/NVRClient-release.apk",
   "downloadPageUrl": "https://lienoo.github.io/nvrclient/download/",
   "forceUpdate": false,
-  "publishedAt": "2026-03-14T18:18:00+08:00",
+  "publishedAt": "2026-03-14T18:35:00+08:00",
   "releaseNotes": [
-    "Android 自更新下载切换为系统 DownloadManager，下载过程可在系统后台持续执行",
-    "应用重启后仍可恢复更新下载状态，并继续显示进度或安装入口",
-    "下载完成后可从应用内直接拉起安装，同时保留系统下载通知"
+    "修复返回登录页时重复弹出同一版本更新提醒的问题",
+    "修复安装完成后重新打开应用仍然显示“安装更新”的问题",
+    "已安装与当前版本一致的新包后，会自动清理旧下载任务和安装入口状态"
   ]
 }
