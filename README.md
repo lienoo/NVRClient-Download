@@ -9,3 +9,7 @@ Current stable file:
 Fixed download link:
 
 - `https://github.com/lienoo/NVRClient-Download/raw/refs/heads/main/NVRClient-release.apk`
+
+Version manifest:
+
+- `https://raw.githubusercontent.com/lienoo/NVRClient-Download/main/version.json`
