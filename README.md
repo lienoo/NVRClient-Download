@@ -8,13 +8,17 @@ Current stable file:
 
 Primary download:
 
-- Gitee APK: `https://gitee.com/lienoo/nvrclient/raw/master/NVRClient-release.apk`
-- Gitee manifest: `https://gitee.com/lienoo/nvrclient/raw/master/version.json`
+- GitHub APK: `https://github.com/lienoo/NVRClient-Download/raw/refs/heads/main/NVRClient-release.apk`
+- GitHub manifest: `https://raw.githubusercontent.com/lienoo/NVRClient-Download/main/version.json`
 
 Fallback download:
 
-- GitHub APK: `https://github.com/lienoo/NVRClient-Download/raw/refs/heads/main/NVRClient-release.apk`
-- GitHub manifest: `https://raw.githubusercontent.com/lienoo/NVRClient-Download/main/version.json`
+- GitLab APK: `https://gitlab.com/lienoo.cn/nvrclient/-/raw/main/NVRClient-release.apk`
+- GitLab manifest: `https://gitlab.com/lienoo.cn/nvrclient/-/raw/main/version.json`
+
+Secondary manifest source:
+
+- Gitee manifest: `https://gitee.com/lienoo/nvrclient/raw/master/version.json`
 
 Public download page:
 
