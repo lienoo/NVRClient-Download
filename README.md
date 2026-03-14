@@ -1,15 +1,21 @@
 # NVRClient Download
 
-Public download repository for the Android APK.
+NVRClient Android APK public download repository.
 
 Current stable file:
 
 - `NVRClient-release.apk`
 
-Fixed download link:
+Primary download:
 
-- `https://github.com/lienoo/NVRClient-Download/raw/refs/heads/main/NVRClient-release.apk`
+- Gitee APK: `https://gitee.com/lienoo/nvrclient/raw/master/NVRClient-release.apk`
+- Gitee manifest: `https://gitee.com/lienoo/nvrclient/raw/master/version.json`
 
-Version manifest:
+Fallback download:
 
-- `https://raw.githubusercontent.com/lienoo/NVRClient-Download/main/version.json`
+- GitHub APK: `https://github.com/lienoo/NVRClient-Download/raw/refs/heads/main/NVRClient-release.apk`
+- GitHub manifest: `https://raw.githubusercontent.com/lienoo/NVRClient-Download/main/version.json`
+
+Public download page:
+
+- `https://lienoo.github.io/nvrclient/download/`
