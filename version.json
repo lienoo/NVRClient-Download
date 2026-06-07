@@ -1,16 +1,15 @@
 {
-  "version": "1.1.27",
-  "buildNumber": 84,
+  "version": "1.1.28",
+  "buildNumber": 97,
   "apkUrl": "https://gitlab.com/lienoo.cn/nvrclient/-/raw/main/NVRClient-release.apk",
   "mirrorApkUrls": [
     "https://github.com/lienoo/NVRClient-Download/raw/refs/heads/main/NVRClient-release.apk"
   ],
   "downloadPageUrl": "https://lienoo.github.io/nvrclient/download/",
   "forceUpdate": false,
-  "publishedAt": "2026-03-25T23:40:20+08:00",
+  "publishedAt": "2026-06-07T13:03:06+08:00",
   "releaseNotes": [
-    "新增超级用户全屏预览 PTZ 控制面板，支持方向、变倍与停止控制",
-    "修复 PTZ 按下开始/松开停止协议，避免单击后设备持续移动",
-    "优化更新清单镜像降级日志，单个源超时不再误报整体更新失败"
+    "新增回放界面视频抓拍，抓拍仅保存视频画面本体",
+    "抽取共享相册保存服务，统一预览与回放抓拍流程"
   ]
 }
